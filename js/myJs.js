@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Yêu ơi là yêu luôn á <3",
   text7: "Tại sao lại yêu tớ chứ (O_O)",
   text8: "Gửi cho tình yêu <3",
-  text9: "Vì cậu cute hột me qué trùi é ♥♥♥",
+  text9: "Vì mình quá thích cậu ròi ♥♥♥",
   text10: "Vậy hỏ, cảm ơn cậu nha. Love you 3000~ (♥_♥)",
   text11:
     "Còn chờ gì nữa inbox cho tớ đi nèe (^-^)",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/nahn.le.18";
+            window.location = "https://www.facebook.com/nahn.le.25";
           },
         });
       }
